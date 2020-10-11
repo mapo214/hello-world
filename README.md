@@ -1,4 +1,5 @@
 # hello-world
 nuevo repositorio
-nuevos comentarios 
+Estos son los primeros comentarios en esta herramienta llamada gitHub.
+
 
